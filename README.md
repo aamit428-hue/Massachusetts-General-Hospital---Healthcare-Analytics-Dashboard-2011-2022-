@@ -1,6 +1,6 @@
 # # Massachusetts General Hospital - Healthcare Analytics Dashboard (2011-2022)
 
-![](hospi.png)
+![https://github.com/aamit428-hue/Massachusetts-General-Hospital---Healthcare-Analytics-Dashboard-2011-2022-/blob/main/hospi.png](hospi.png)
 
 > An interactive **Power BI dashboard** analyzing 12 years of hospital claims data to drive healthcare cost optimization and operational insights.
 
